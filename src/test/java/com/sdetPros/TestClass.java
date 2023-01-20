@@ -1,2 +1,4 @@
-package com.sdetPros;public class TestClass {
+package com.sdetPros;
+
+public class TestClass {
 }
