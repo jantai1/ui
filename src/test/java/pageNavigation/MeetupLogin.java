@@ -22,7 +22,7 @@ public class MeetupLogin {
 
     @After
     public void tearDown(){
-//        Driver.closeDriver();
+        Driver.closeDriver();
     }
 
     @Test
