@@ -5,78 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d672cdc8-74dd-4079-8304-fe65804271c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/JoinMeetupPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_defs/BasicValidationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_defs/BasicValidationStepsMeetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_defs/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_defs/LoginFlowSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_defs/MeetupRegistrationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/EnvironmentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/BasicValidation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/BasicValidationMeetup.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginFlow.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/MeetupRegistration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SearchFunctionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aru/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aru/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aru/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aru/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Khadija/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Khadija/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Khadija/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Khadija/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Renata/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Renata/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Renata/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saltanat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saltanat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saltanat/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saltanat/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sezim/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sezim/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sezim/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youseff/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youseff/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youseff/src/main/java/com/mh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youseff/src/test/java/com/mh/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdetprOS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sdetprOS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sdetPros/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sdetPros/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-01-19 Test Case Meetup Login.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdetprOS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sdetPros/FirstClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sdetPros/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Saltanat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sdetPros/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sdetPros/testcases/FariaLoginTestCases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetCode/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageNavigation/MeetupLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/JoinMeetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/BasicValidationSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/BasicValidationStepsMeetup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/LoginFlowSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/MeetupRegistrationSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ChromeWebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/EnvironmentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/FirefoxWebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Helper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/HelperMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/BasicValidation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/BasicValidationMeetup.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/LoginFlow.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/MeetupRegistration.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/SearchFunctionality.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Khadija.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sdetPros/FirstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sdetPros/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/leetCode/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageNavigation/MeetupLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ChromeWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/FirefoxWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/HelperMethod.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Jvu6ipOPYifpDLGjcbepneiYUK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -107,20 +109,39 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/chebu/OneDrive/Documents/DevX School/gituiproject/ui/src/test/resources"
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/git/mh/ui/Youseff",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\chebu\OneDrive\Documents\DevX School\gituiproject\ui\src\test\resources" />
-      <recent name="C:\Users\chebu\OneDrive\Documents\DevX School\gituiproject\ui\src\test\java" />
-      <recent name="C:\Users\chebu\OneDrive\Documents\DevX School\gituiproject\ui\src\test\java\utilities" />
+      <recent name="C:\git\mh\ui\Youseff" />
+      <recent name="C:\git\mh\ui\Khadija" />
+      <recent name="C:\git\mh\ui\Saltanat" />
+      <recent name="C:\git\mh\ui\Renata" />
+      <recent name="C:\git\mh\ui\Sezim" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mh.App" />
+      <module name="Youseff" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetCode.ReverseString" />
-      <module name="sdetprOS" />
+      <module name="MethodHeads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetCode.*" />
@@ -132,7 +153,7 @@
       </method>
     </configuration>
     <configuration name="MeetupLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sdetprOS" />
+      <module name="MethodHeads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pageNavigation.*" />
@@ -147,7 +168,7 @@
       </method>
     </configuration>
     <configuration name="MeetupLogin.meetupLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sdetprOS" />
+      <module name="MethodHeads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pageNavigation.*" />
@@ -162,8 +183,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MethodHeads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="MethodHeads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="MethodHeads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="MethodHeads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="JUnit.MeetupLogin" />
         <item itemvalue="JUnit.MeetupLogin.meetupLogin" />

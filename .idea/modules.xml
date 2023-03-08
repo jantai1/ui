@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sdetprOS.iml" filepath="$PROJECT_DIR$/sdetprOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Khadija.iml" filepath="$PROJECT_DIR$/Khadija.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Saltanat.iml" filepath="$PROJECT_DIR$/Saltanat.iml" />
     </modules>
   </component>
 </project>

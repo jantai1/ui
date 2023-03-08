@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sdetprOS" />
+        <module name="Youseff" />
+        <module name="Renata" />
+        <module name="Aru" />
+        <module name="Sezim" />
+        <module name="Sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sdetprOS" target="1.7" />
+      <module name="Khadija" target="1.7" />
+      <module name="Saltanat" target="1.7" />
+      <module name="Youssef" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
